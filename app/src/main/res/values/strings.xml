@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">App Borravalo</string>
+    <string name="service_question">Milyen volt a szolgáltatás?</string>
+    <string name="option_20">Nagyon jó (20%)</string>
+    <string name="option_12_5">Megfelelő (12,5%)</string>
+    <string name="option_5">Átlagos (5%)</string>
+    <string name="round_up">Kerekítés fel?</string>
+    <string name="calculate">Számolás</string>
+    <string name="tip_amount">Borravaló összege: %s</string>
+    <string name="empty_cost">Üres a szám mező!</string>
+    <string name="cost_of_service">Szolgáltatás ára</string>
+</resources>
